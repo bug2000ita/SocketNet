@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../iCloud Drive (Archivio)/Progetti/NET/Sockets/Socket-Server_Client/Server.cs">
+    <Files>
+      <File FileName="WpfApplication1/MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="../../../iCloud Drive (Archivio)/Progetti/NET/Sockets/Socket-Server_Client/Client.cs" Line="54" Column="42" />
+      <File FileName="../../../iCloud Drive (Archivio)/Progetti/NET/Sockets/Socket-Server_Client/Server.cs" Line="1" Column="1" />
+      <File FileName="WpfApplication1/MainWindow.xaml.cs" Line="7" Column="1" NotebookId="1" />
+      <File FileName="ServerSocketWpfApp/MainWindow.xaml.cs" Line="21" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/bug2000/iCloud Drive (Archivio)/Progetti/NET/Sockets/Socket-Server_Client/Client.cs" line="68" column="54" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
